@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 //PROGRAMA DE MANEJO DE NOMBRES
 
     /*La tarea consiste en crear una clase llamada ProgramaManejoDeNombres de la siguiente manera:

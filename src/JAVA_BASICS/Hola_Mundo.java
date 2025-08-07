@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 import java.util.Scanner;
 
 public class Hola_Mundo {

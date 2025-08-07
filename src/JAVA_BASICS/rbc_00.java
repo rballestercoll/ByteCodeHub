@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 //#00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO;
 /* EJERCICIO:
  * 1- Crea un comentario en el código y coloca la URL del sitio web oficial del
